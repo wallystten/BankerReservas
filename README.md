@@ -1,2 +1,2 @@
 # BankerReservas
-Aplicativo para reservar viagem no município 
+reserva sua viagem 
